@@ -1,0 +1,31 @@
+{
+  "name": "ai-engineer-lab",
+  "version": "1.0.0",
+  "description": "Hands-on Mastery Lab for Full-Stack AI Application Engineering",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "agents",
+    "mcp",
+    "typescript"
+  ],
+  "author": "Sergio Ricardo García Vargas",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.112",
+    "ai": "^7.0.163",
+    "dotenv": "^18.0.9",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
