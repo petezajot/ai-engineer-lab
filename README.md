@@ -5,7 +5,7 @@ Laboratorio práctico interactivo para formarse como **Lead / Staff Full-Stack A
 ## 📚 Módulos del Programa
 
 - [x] **Módulo 01: Inferencia Básica y Structured Outputs** (Zod, Schemas tipados, Manejo de errores).
-- [ ] **Módulo 02: Tool Calling & Function Calling** (Darle herramientas al modelo, ejecución de código).
+- [x] **Módulo 02: Tool Calling & Function Calling** (Darle herramientas al modelo, ejecución de código).
 - [ ] **Módulo 03: Model Context Protocol (MCP)** (Creación de servidores y clientes MCP en TypeScript).
 - [ ] **Módulo 04: Context Optimization & Prompt Caching** (Manejo de ventanas de contexto, compresión, routing).
 - [ ] **Módulo 05: RAG Avanzado con pgvector** (Embeddings, búsqueda vectorial e híbrida).
